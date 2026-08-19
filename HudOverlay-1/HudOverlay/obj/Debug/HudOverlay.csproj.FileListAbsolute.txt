@@ -1,0 +1,23 @@
+C:\Users\grind\Downloads\HudOverlay\HudOverlay\obj\Debug\HudOverlay.csproj.AssemblyReference.cache
+C:\Users\grind\Downloads\HudOverlay\HudOverlay\obj\Debug\HudOverlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grind\Downloads\HudOverlay\HudOverlay\obj\Debug\HudOverlay.AssemblyInfoInputs.cache
+C:\Users\grind\Downloads\HudOverlay\HudOverlay\obj\Debug\HudOverlay.AssemblyInfo.cs
+C:\Users\grind\Downloads\HudOverlay\HudOverlay\obj\Debug\HudOverlay.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\HudOverlay\HudOverlay.dll
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\HudOverlay\HudOverlay.pdb
+C:\Users\grind\Downloads\HudOverlay\HudOverlay\obj\Debug\HudOverlay.dll
+C:\Users\grind\Downloads\HudOverlay\HudOverlay\obj\Debug\HudOverlay.pdb
+C:\Users\grind\Downloads\HudOverlay\HudOverlay\obj\Debug\HudOverlay.sourcelink.json
+C:\Users\grind\Downloads\HudOverlay\HudOverlay\bin\Debug\HudOverlay.deps.json
+C:\Users\grind\Downloads\HudOverlay\HudOverlay\bin\Debug\HudOverlay.dll
+C:\Users\grind\Downloads\HudOverlay\HudOverlay\bin\Debug\HudOverlay.pdb
+C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\bin\Debug\HudOverlay.deps.json
+C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\bin\Debug\HudOverlay.dll
+C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\bin\Debug\HudOverlay.pdb
+C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.csproj.AssemblyReference.cache
+C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.AssemblyInfoInputs.cache
+C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.AssemblyInfo.cs
+C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.csproj.CoreCompileInputs.cache
+C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.dll
+C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.pdb
