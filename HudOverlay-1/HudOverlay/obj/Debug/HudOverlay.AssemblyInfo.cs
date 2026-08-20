@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HudOverlay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47fee83dfbb602e0985933c6a6e1b45d21117414")]
 [assembly: System.Reflection.AssemblyProductAttribute("HudOverlay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HudOverlay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

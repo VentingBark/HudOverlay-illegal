@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grind\\Downloads\\HudOverlay-1\\HudOverlay-1\\HudOverlay\\HudOverlay.csproj": {}
+    "C:\\Users\\grind\\Downloads\\HudOverlay illegal\\HudOverlay-1\\HudOverlay\\HudOverlay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grind\\Downloads\\HudOverlay-1\\HudOverlay-1\\HudOverlay\\HudOverlay.csproj": {
+    "C:\\Users\\grind\\Downloads\\HudOverlay illegal\\HudOverlay-1\\HudOverlay\\HudOverlay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grind\\Downloads\\HudOverlay-1\\HudOverlay-1\\HudOverlay\\HudOverlay.csproj",
+        "projectUniqueName": "C:\\Users\\grind\\Downloads\\HudOverlay illegal\\HudOverlay-1\\HudOverlay\\HudOverlay.csproj",
         "projectName": "HudOverlay",
-        "projectPath": "C:\\Users\\grind\\Downloads\\HudOverlay-1\\HudOverlay-1\\HudOverlay\\HudOverlay.csproj",
+        "projectPath": "C:\\Users\\grind\\Downloads\\HudOverlay illegal\\HudOverlay-1\\HudOverlay\\HudOverlay.csproj",
         "packagesPath": "C:\\Users\\grind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grind\\Downloads\\HudOverlay-1\\HudOverlay-1\\HudOverlay\\obj\\",
+        "outputPath": "C:\\Users\\grind\\Downloads\\HudOverlay illegal\\HudOverlay-1\\HudOverlay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grind\\AppData\\Roaming\\NuGet\\NuGet.Config"
