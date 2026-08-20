@@ -61,6 +61,7 @@ public class HudController : MonoBehaviour
     private static readonly Dictionary<string, string> _creationDateCache = new();
     private static readonly Dictionary<string, float> _waiting = new();
 
+
     private static string GetCreationDate(Player player)
     {
         if (player == null || string.IsNullOrEmpty(player.UserId))
@@ -236,6 +237,14 @@ public class HudController : MonoBehaviour
             GUI.Label(lineRect, lines[y], _labelStyle);
         }
 
+        var TPRect = new Rect(box.x + Padding, box.y + Padding + HeaderHeight + y * LineHeight, Width - Padding * 2, LineHeight - 2);
+        if (GUI.Button(TPRect, "Teleport To Player", _buttonStyle))
+        {
+            VRRig rig = RigUtilities.GetVRRigFromPhotonPlayer(player);
+            Vector3 vector3Tp = TPlayer.GetVector3(rig);
+            TPlayer.TeleportPlayer(vector3Tp);
+        }
+
         var getPropsRect = new Rect(box.x + Padding, box.y + Padding + HeaderHeight + y * LineHeight, Width - Padding * 2, LineHeight - 2);
         if (GUI.Button(getPropsRect, "Get Props", _buttonStyle))
         {
@@ -245,13 +254,33 @@ public class HudController : MonoBehaviour
             }
         }
         y++;
-
+        // 
         var allPropsRect = new Rect(box.x + Padding, box.y + Padding + HeaderHeight + y * LineHeight, Width - Padding * 2, LineHeight - 2);
         if (GUI.Button(allPropsRect, $"Show All Props ({player.CustomProperties?.Count ?? 0})", _buttonStyle))
         {
             _showAllProps = true;
         }
         y++; // advance past the Show All Props row so Back doesn't overlap it
+        var sayHiRect = new Rect(box.x + Padding, box.y + Padding + HeaderHeight + y * LineHeight, Width - Padding * 2, LineHeight - 2);
+        if (GUI.Button(sayHiRect, "Say hi", _buttonStyle))
+        {
+            NetPlayer netPlayer = NetworkSystem.Instance.GetPlayer(player.ActorNumber);
+            VRRig rig = netPlayer != null ? RigUtilities.GetVRRigFromPlayer(netPlayer) : null;
+
+            if (rig != null)
+            {
+                TPlayer.TagPlayer(rig);
+                Debug.Log($"[HudOverlay] Say hi -> TPlayer called for {(string.IsNullOrEmpty(player.NickName) ? "Unknown" : player.NickName)}");
+            }
+            else
+            {
+                Debug.LogWarning($"[HudOverlay] Say hi: could not resolve VRRig for {(string.IsNullOrEmpty(player.NickName) ? "Unknown" : player.NickName)}");
+            }
+        }
+        y++;
+
+
+
 
         var backRect = new Rect(box.x + Padding, box.y + Padding + HeaderHeight + y * LineHeight, Width - Padding * 2, LineHeight - 3);
         if (GUI.Button(backRect, "< Back (Backspace)", _buttonStyle))

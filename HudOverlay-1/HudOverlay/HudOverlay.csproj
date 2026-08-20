@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <AssemblyName>Illegal HudOverlay</AssemblyName>
     <TargetFramework>netstandard2.1</TargetFramework>
     <LangVersion>latest</LangVersion>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
@@ -8,13 +9,15 @@
     <ImplicitUsings>disable</ImplicitUsings>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <OutputPath>bin\$(Configuration)\</OutputPath>
-    
-    <!-- CHANGE THIS to your Gorilla Tag install path -->
+
+    <!-- Gorilla Tag install path -->
     <GamePath>C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag</GamePath>
     <ManagedPath>$(GamePath)\Gorilla Tag_Data\Managed</ManagedPath>
     <BepInExPath>$(GamePath)\BepInEx\core</BepInExPath>
     <PluginsPath>$(GamePath)\BepInEx\plugins</PluginsPath>
   </PropertyGroup>
+    
+
 
   <!-- Optional: auto-copy the built DLL into the plugins folder on build -->
   <Target Name="CopyToPlugins" AfterTargets="Build" Condition="Exists('$(PluginsPath)')">

@@ -9,7 +9,7 @@ public class Plugin : BaseUnityPlugin
 {
     private void Awake()
     {
-        var host = new GameObject("HudOverlay");
+        var host = new GameObject("Illegal HudOverlay");
         host.AddComponent<HudController>();
         DontDestroyOnLoad(host);
 

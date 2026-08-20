@@ -252,5 +252,11 @@ namespace HudOverlay.Hud
             catch { }
             return "N/A";
         }
+        public static VRRig GetVRRigFromPhotonPlayer(Player p)
+        {
+            if (p == null) return null;
+            NetPlayer netPlayer = NetworkSystem.Instance.GetPlayer(p.ActorNumber);
+            return netPlayer != null ? GetVRRigFromPlayer(netPlayer) : null;
+        }
     }
 }

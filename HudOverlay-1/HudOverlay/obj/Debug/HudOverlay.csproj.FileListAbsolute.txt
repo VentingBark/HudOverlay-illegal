@@ -21,3 +21,25 @@ C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\obj\Debug\HudOverl
 C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.csproj.CoreCompileInputs.cache
 C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.dll
 C:\Users\grind\Downloads\HudOverlay-1\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.pdb
+C:\Users\grind\Downloads\HudOverlay illegal\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.csproj.AssemblyReference.cache
+C:\Users\grind\Downloads\HudOverlay illegal\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grind\Downloads\HudOverlay illegal\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.AssemblyInfoInputs.cache
+C:\Users\grind\Downloads\HudOverlay illegal\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.AssemblyInfo.cs
+C:\Users\grind\Downloads\HudOverlay illegal\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.csproj.CoreCompileInputs.cache
+C:\Users\grind\Downloads\HudOverlay illegal\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.sourcelink.json
+C:\Users\grind\Downloads\HudOverlay illegal\HudOverlay-1\HudOverlay\bin\Debug\Illegal HudOverlay.deps.json
+C:\Users\grind\Downloads\HudOverlay illegal\HudOverlay-1\HudOverlay\bin\Debug\Illegal HudOverlay.dll
+C:\Users\grind\Downloads\HudOverlay illegal\HudOverlay-1\HudOverlay\bin\Debug\Illegal HudOverlay.pdb
+C:\Users\grind\Downloads\HudOverlay illegal\HudOverlay-1\HudOverlay\obj\Debug\Illegal HudOverlay.dll
+C:\Users\grind\Downloads\HudOverlay illegal\HudOverlay-1\HudOverlay\obj\Debug\Illegal HudOverlay.pdb
+C:\Users\grind\Downloads\HudOverlay-2\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.csproj.AssemblyReference.cache
+C:\Users\grind\Downloads\HudOverlay-2\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grind\Downloads\HudOverlay-2\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.AssemblyInfoInputs.cache
+C:\Users\grind\Downloads\HudOverlay-2\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.AssemblyInfo.cs
+C:\Users\grind\Downloads\HudOverlay-2\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.csproj.CoreCompileInputs.cache
+C:\Users\grind\Downloads\HudOverlay-2\HudOverlay-1\HudOverlay\obj\Debug\HudOverlay.sourcelink.json
+C:\Users\grind\Downloads\HudOverlay-2\HudOverlay-1\HudOverlay\bin\Debug\Illegal HudOverlay.deps.json
+C:\Users\grind\Downloads\HudOverlay-2\HudOverlay-1\HudOverlay\bin\Debug\Illegal HudOverlay.dll
+C:\Users\grind\Downloads\HudOverlay-2\HudOverlay-1\HudOverlay\bin\Debug\Illegal HudOverlay.pdb
+C:\Users\grind\Downloads\HudOverlay-2\HudOverlay-1\HudOverlay\obj\Debug\Illegal HudOverlay.dll
+C:\Users\grind\Downloads\HudOverlay-2\HudOverlay-1\HudOverlay\obj\Debug\Illegal HudOverlay.pdb
